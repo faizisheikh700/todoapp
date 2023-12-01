@@ -1,0 +1,40 @@
+/* .bg-success {
+    background-color: green;
+    margin-left: 50px;
+  }
+#todoList{} */
+.bg-red {
+  background-color: red;
+  margin-left: 50px;
+}
+
+
+.main{
+  background: rgb(228, 158, 158);
+  width: 50vh;
+  border-radius: 5px;
+  margin: auto;
+  text-align: center;
+}
+/* .main input {
+  border: none;
+}
+.main button {
+  border: none;
+} */
+li{
+  word-wrap: break-word;
+}
+
+.del{
+  background: black;
+  /* padding: 5px; */
+  margin: 5px;
+  color: white;
+}
+.ed{
+  background: black;
+  /* padding: 5px; */
+  margin: 5px;
+  color: white;
+}
